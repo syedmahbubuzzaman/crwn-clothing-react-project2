@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/crwn-clothing-react-project2/static/css/main.1603e7ab.css",
+    "main.js": "/crwn-clothing-react-project2/static/js/main.0bb7d5d1.js",
+    "static/js/787.d7ece244.chunk.js": "/crwn-clothing-react-project2/static/js/787.d7ece244.chunk.js",
+    "index.html": "/crwn-clothing-react-project2/index.html",
+    "main.1603e7ab.css.map": "/crwn-clothing-react-project2/static/css/main.1603e7ab.css.map",
+    "main.0bb7d5d1.js.map": "/crwn-clothing-react-project2/static/js/main.0bb7d5d1.js.map",
+    "787.d7ece244.chunk.js.map": "/crwn-clothing-react-project2/static/js/787.d7ece244.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1603e7ab.css",
+    "static/js/main.0bb7d5d1.js"
+  ]
+}
